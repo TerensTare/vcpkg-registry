@@ -1,0 +1,6 @@
+{
+    "name": "boost-ut",
+    "version": "1.1.8",
+    "description": "C++ single header/single module, macro-free μ(micro)/Unit Testing Framework",
+    "homepage": "https://github.com/boost-ext/ut"
+}
