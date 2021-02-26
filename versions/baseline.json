@@ -1,0 +1,5 @@
+{
+  "default": {
+    "boost-ut": { "baseline": "1.1.8", "port-version": 0 }
+  }
+}
